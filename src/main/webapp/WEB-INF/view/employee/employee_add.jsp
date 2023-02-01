@@ -411,10 +411,10 @@
                 </div>
               </div>
               <div class="col-md-3 mb-3 mt-4">
-                <label for="validationTooltip04">NIC</label>
-                <input type="text" class="form-control" name="nic" placeholder="NIC" required>
+                <label for="validationTooltip04">POSTCODE</label>
+                <input type="text" class="form-control" name="postcode" placeholder="POSTCODE" required>
                 <div class="invalid-tooltip">
-                  Please provide Valid NIC.
+                  Please provide Valid POSTCODE.
                 </div>
                 <div class="valid-tooltip">
                   Looks good!

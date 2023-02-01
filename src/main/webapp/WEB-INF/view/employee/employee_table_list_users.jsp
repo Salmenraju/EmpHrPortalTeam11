@@ -307,7 +307,7 @@
                     <tr>
                       <th>First Name</th>
                       <th>Email</th>
-                      <th>NIC</th>
+                      <th>POSTCODE</th>
                       <th>Mobile Number</th>
                       <th>Designation</th>
                       <th>Branch</th>
@@ -319,7 +319,7 @@
                     <tr>
                       <th>First Name</th>
                       <th>Email</th>
-                      <th>NIC</th>
+                      <th>POSTCODE</th>
                       <th>Mobile Number</th>
                       <th>Designation</th>
                       <th>Branch</th>
@@ -333,7 +333,7 @@
 							<tr>
 								<td>${employee.firstName}</td>
 								<td>${employee.email}</td>
-								<td>${employee.nic}</td>
+								<td>${employee.postcode}</td>
 								<td>${employee.mobileNo}</td>
 								<td>${employee.designation}</td>
 								<td>${employee.branch}</td>
