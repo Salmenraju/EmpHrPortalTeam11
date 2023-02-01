@@ -29,8 +29,8 @@ public class Employee {
 	@Column(name = "address")
 	private String address;
 	
-	@Column(name = "nic")
-	private String nic;
+	@Column(name = "pin_code")
+	private String pincode;
 	
 	@Column(name = "mobile_number")
 	private String mobileNo;
@@ -90,11 +90,11 @@ public class Employee {
 	public void setAddress(String address) {
 		this.address = address;
 	}
-	public String getNic() {
-		return nic;
+	public String getPincode() {
+		return pincode;
 	}
-	public void setNic(String nic) {
-		this.nic = nic;
+	public void setPincode(String pincode) {
+		this.pincode = pincode;
 	}
 	public String getMobileNo() {
 		return mobileNo;
@@ -143,7 +143,7 @@ public class Employee {
 	@Override
 	public String toString() {
 		return "Employee [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName + ", email=" + email
-				+ ", gender=" + gender + ", address=" + address + ", nic=" + nic + ", mobileNo=" + mobileNo
+				+ ", gender=" + gender + ", address=" + address + ", pincode=" + pincode + ", mobileNo=" + mobileNo
 				+ ", designation=" + designation + ", birthday=" + birthday + ", joinedDate=" + joinedDate
 				+ ", branch=" + branch + ", department=" + department + ", password=" + password + "]";
 	}

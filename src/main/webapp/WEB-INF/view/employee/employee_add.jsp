@@ -262,7 +262,7 @@
                   </div>
                   <div class="font-weight-bold">
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">Team11 · 58m</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 58m</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -272,7 +272,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">We Will Be Back Soon!! · 1d</div>
+                    <div class="small text-gray-500">We Will Be Back Soon!! ï¿½ 1d</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -282,7 +282,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">Team11 · 2d</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 2d</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -292,7 +292,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!...</div>
-                    <div class="small text-gray-500">Team11 · 2w</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 2w</div>
                   </div>
                 </a>
                 <a class="dropdown-item text-center small text-gray-500" href="#">Read More Messages</a>
@@ -411,10 +411,10 @@
                 </div>
               </div>
               <div class="col-md-3 mb-3 mt-4">
-                <label for="validationTooltip04">POSTCODE</label>
-                <input type="text" class="form-control" name="postcode" placeholder="POSTCODE" required>
+                <label for="validationTooltip04">PINCODE</label>
+                <input type="text" class="form-control" name="pincode" placeholder="PINCODE" required>
                 <div class="invalid-tooltip">
-                  Please provide Valid POSTCODE.
+                  Please provide Valid Pincode.
                 </div>
                 <div class="valid-tooltip">
                   Looks good!
@@ -435,9 +435,9 @@
                 <label for="validationTooltipDesignation">Designation / Position</label>
                   <select class="custom-select" name="designation" required>
                     <option value="">Choose...</option>
-                    <option value ="Manager">Manager</option>
-                    <option value="Reception">Reception</option>
-                    <option value="Web Manager">Web Manager</option>
+                    <option value ="System Engineer">System Engineer</option>
+                    <option value="IT Analyst">IT Analyst</option>
+                    <option value="Project Manager">Project Manager</option>
                   </select>
                     <div class="invalid-tooltip">
                       Please Select Valid Designation.
@@ -490,7 +490,7 @@
                   <label for="validationTooltipDesignation">Department</label>
                     <select class="custom-select" id="normal_emp_add_department" name="department" required>
                       <option value="">Choose...</option>
-                      <option value ="Marketing">Marketing</option>
+                      <option value ="Information Technology">Information Technology</option>
                       <option value="Accounting and Finance">Accounting and Finance</option>
                       <option value="Human Resource Management">Human Resource Management</option>
                       <option value="Research and Development">Research and Development</option>
@@ -559,7 +559,7 @@
         <div class="modal-header">
           <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
           <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
+            <span aria-hidden="true">ï¿½</span>
           </button>
         </div>
         <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>

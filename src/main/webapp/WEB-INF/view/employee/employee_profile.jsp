@@ -236,7 +236,7 @@
                   </div>
                   <div class="font-weight-bold">
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">Team11 · 58m</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 58m</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -246,7 +246,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">Team11 · 1d</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 1d</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -256,7 +256,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">Team11 · 2d</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 2d</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -266,7 +266,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!...</div>
-                    <div class="small text-gray-500">Team11 · 2w</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 2w</div>
                   </div>
                 </a>
                 <a class="dropdown-item text-center small text-gray-500" href="#">Read More Messages</a>
@@ -412,10 +412,10 @@
                                           </div>
                                         </div>
                                         <div class="col-md-3 mb-5 mt-4">
-                                          <label for="validationTooltip04">POSTCODE</label>
-                                          <input type="text" class="form-control" id="normal_emp_profile_postcode" placeholder="POSTCODE" readonly="readonly" required>
+                                          <label for="validationTooltip04">PINCODE</label>
+                                          <input type="text" class="form-control" id="normal_emp_profile_nic" placeholder="PINCODE" readonly="readonly" required>
                                           <div class="invalid-tooltip">
-                                            Please provide Valid POSTCODE.
+                                            Please provide Valid PINCODE.
                                           </div>
                                           <div class="valid-tooltip">
                                             Looks good!
@@ -463,10 +463,10 @@
                                           <label for="validationTooltipDesignation">Branch</label>
                                             <select class="custom-select" id="normal_emp_profile_branch" disabled="disabled" required>
                                               <option value="">Choose...</option>
-                                              <option value ="1">Kandy</option>
-                                              <option value="2">Colombo</option>
-                                              <option value="3">Kurunagala</option>
-                                              <option value="3">Matara</option>
+                                              <option value ="1">Delhi</option>
+                                              <option value="2">Bangalore</option>
+                                              <option value="3">Chennai</option>
+                                              <option value="3">Canada</option>
                                             </select>
                                               <div class="invalid-tooltip">
                                                 Please Select Valid Branch.
@@ -480,7 +480,7 @@
                                             <label for="validationTooltipDesignation">Department</label>
                                               <select class="custom-select" id="normal_emp_profile_department" disabled="disabled" required>
                                                 <option value="">Choose...</option>
-                                                <option value ="1">Marketing</option>
+                                                <option value ="1">Information Technology</option>
                                                 <option value="2">Accounting and Finance</option>
                                                 <option value="3">Human Resource Management</option>
                                                 <option value="3">Research and Development</option>

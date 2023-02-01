@@ -85,7 +85,7 @@
       <li class="nav-item">
         <a class="nav-link" href="/admin/contact">
           <i class="fas fa fa-paper-plane"></i>
-          <span>Contact Admin</span></a>
+          <span>Contact HR</span></a>
       </li>
 
       <!-- Divider -->
@@ -219,7 +219,7 @@
                   </div>
                   <div class="font-weight-bold">
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">Team11 · 58m</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 58m</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -229,7 +229,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">Team11 · 1d</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 1d</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -239,7 +239,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">Team11 · 2d</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 2d</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -249,7 +249,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!...</div>
-                    <div class="small text-gray-500">Team11 · 2w</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 2w</div>
                   </div>
                 </a>
                 <a class="dropdown-item text-center small text-gray-500" href="#">Read More Messages</a>
@@ -307,7 +307,7 @@
                     <tr>
                       <th>First Name</th>
                       <th>Email</th>
-                      <th>POSTCODE</th>
+                      <th>PINCODE</th>
                       <th>Mobile Number</th>
                       <th>Designation</th>
                       <th>Branch</th>
@@ -319,7 +319,7 @@
                     <tr>
                       <th>First Name</th>
                       <th>Email</th>
-                      <th>POSTCODE</th>
+                      <th>PINCODE</th>
                       <th>Mobile Number</th>
                       <th>Designation</th>
                       <th>Branch</th>
@@ -333,7 +333,7 @@
 							<tr>
 								<td>${employee.firstName}</td>
 								<td>${employee.email}</td>
-								<td>${employee.postcode}</td>
+								<td>${employee.pincode}</td>
 								<td>${employee.mobileNo}</td>
 								<td>${employee.designation}</td>
 								<td>${employee.branch}</td>
@@ -382,7 +382,7 @@
         <div class="modal-header">
           <h5 class="modal-title" id="exampleModalLabel">Ready to Leave?</h5>
           <button class="close" type="button" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">×</span>
+            <span aria-hidden="true">ï¿½</span>
           </button>
         </div>
         <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>

@@ -261,7 +261,7 @@
                   </div>
                   <div class="font-weight-bold">
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">Team11 · 58m</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 58m</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -271,7 +271,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">Team11 · 1d</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 1d</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -281,7 +281,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!</div>
-                    <div class="small text-gray-500">Team11 · 2d</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 2d</div>
                   </div>
                 </a>
                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -291,7 +291,7 @@
                   </div>
                   <div>
                     <div class="text-truncate">We Will Be Back Soon!!...</div>
-                    <div class="small text-gray-500">Team11 · 2w</div>
+                    <div class="small text-gray-500">Team11 ï¿½ 2w</div>
                   </div>
                 </a>
                 <a class="dropdown-item text-center small text-gray-500" href="#">Read More Messages</a>
@@ -449,10 +449,10 @@
                                             <div class="form-row">
                                               <!-- Form Group (phone number)-->
                                               <div class="form-group col-md-6 mt-3 mb-4">
-                                                  <label class="small mb-1" for="inputPhone">NIC</label>
-                                                  <input class="form-control" id="employee_admin_nic" type="text" placeholder="Enter your nic no" readonly="readonly" required/>
+                                                  <label class="small mb-1" for="inputPhone">PINCODE</label>
+                                                  <input class="form-control" id="employee_admin_nic" type="text" placeholder="Enter your pincode no" readonly="readonly" required/>
                                                   <div class="invalid-tooltip">
-                                                    Please enter your NIC.
+                                                    Please enter your PINCODE.
                                                   </div>
                                                   <div class="valid-tooltip">
                                                     Looks good!
